@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\gfur\\module.gfur.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\gfur\\definitions.gfur.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\furcustomlod.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\public\\furcustomlod.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\furcustomlod.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\furlod.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\public\\furlod.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\furlod.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\fursplines.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\public\\fursplines.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\fursplines.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\gfur.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\gfurcomponent.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\public\\gfurcomponent.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\intermediate\\build\\win64\\unrealgame\\inc\\gfur\\uht\\gfurcomponent.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\private\\furcustomlod.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\private\\furlod.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\private\\fursplines.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\private\\gfurcomponent.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\marketplace\\gfurpro\\source\\gfur\\private\\gfurmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

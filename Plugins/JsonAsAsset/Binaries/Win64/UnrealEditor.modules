@@ -1,0 +1,9 @@
+{
+	"BuildId": "f2ad51e8-1362-49f9-8337-f6c906d31563",
+	"Modules": 
+	{
+		"Detex": "UnrealEditor-Detex.dll",
+		"JsonAsAsset": "UnrealEditor-JsonAsAsset.dll",
+		"NVTT": "UnrealEditor-NVTT.dll"
+	}
+}

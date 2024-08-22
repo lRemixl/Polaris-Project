@@ -1,0 +1,24 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "EMotHeadMatrixSpace.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef MOTHEADANIMATIONRUNTIME_EMotHeadMatrixSpace_generated_h
+#error "EMotHeadMatrixSpace.generated.h already included, missing '#pragma once' in EMotHeadMatrixSpace.h"
+#endif
+#define MOTHEADANIMATIONRUNTIME_EMotHeadMatrixSpace_generated_h
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_SHORT_Polaris_Project_main_Plugins_MotHeadAnimation_Source_MotHeadAnimationRuntime_Public_EMotHeadMatrixSpace_h
+
+
+#define FOREACH_ENUM_EMOTHEADMATRIXSPACE(op) \
+	op(MHM_WorldSpace) \
+	op(MHM_LocalSpace) 
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MotHeadAnimationRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\Engine\SharedPCH.Engine.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\MotHeadAnimation\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotHeadAnimationRuntime\Module.MotHeadAnimationRuntime.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\MotHeadAnimation\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotHeadAnimationRuntime\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\MotHeadAnimation\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotHeadAnimationRuntime\UnrealEditor-MotHeadAnimationRuntime.lib"

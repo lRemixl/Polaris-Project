@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KamuiNetworkPlugin.cpp.obj": [
+			"KamuiNetworkBPFunctionLibrary.gen.cpp.obj",
+			"KamuiNetworkComponent.gen.cpp.obj",
+			"KamuiNetworkLibraryGameInstance.gen.cpp.obj",
+			"KamuiNetworkPlugin.init.gen.cpp.obj",
+			"KamuiNetworkBPFunctionLibrary.cpp.obj",
+			"KamuiNetworkComponent.cpp.obj",
+			"KamuiNetworkLibraryGameInstance.cpp.obj",
+			"KamuiNetworkPluginModule.cpp.obj"
+		]
+	}
+}

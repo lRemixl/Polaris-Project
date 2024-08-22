@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\short\\polaris-project-main\\plugins\\jsonasasset\\source\\nvtt\\thirdparty\\nvtt\\nvcore\\poshlib\\posh.c",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\documents\\short\\polaris-project-main\\plugins\\jsonasasset\\source\\nvtt\\thirdparty\\nvtt\\nvcore\\poshlib\\posh.h"
+        ]
+    }
+}

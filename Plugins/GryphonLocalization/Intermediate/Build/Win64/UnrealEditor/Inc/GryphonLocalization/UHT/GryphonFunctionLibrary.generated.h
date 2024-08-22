@@ -1,0 +1,112 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "GryphonFunctionLibrary.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef GRYPHONLOCALIZATION_GryphonFunctionLibrary_generated_h
+#error "GryphonFunctionLibrary.generated.h already included, missing '#pragma once' in GryphonFunctionLibrary.h"
+#endif
+#define GRYPHONLOCALIZATION_GryphonFunctionLibrary_generated_h
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_SPARSE_DATA
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetString); \
+	DECLARE_FUNCTION(execGetText); \
+	DECLARE_FUNCTION(execHasText); \
+	DECLARE_FUNCTION(execRegisterAsset); \
+	DECLARE_FUNCTION(execUnregisterAsset);
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetString); \
+	DECLARE_FUNCTION(execGetText); \
+	DECLARE_FUNCTION(execHasText); \
+	DECLARE_FUNCTION(execRegisterAsset); \
+	DECLARE_FUNCTION(execUnregisterAsset);
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_ACCESSORS
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUGryphonFunctionLibrary(); \
+	friend struct Z_Construct_UClass_UGryphonFunctionLibrary_Statics; \
+public: \
+	DECLARE_CLASS(UGryphonFunctionLibrary, UBlueprintFunctionLibrary, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GryphonLocalization"), NO_API) \
+	DECLARE_SERIALIZER(UGryphonFunctionLibrary)
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_INCLASS \
+private: \
+	static void StaticRegisterNativesUGryphonFunctionLibrary(); \
+	friend struct Z_Construct_UClass_UGryphonFunctionLibrary_Statics; \
+public: \
+	DECLARE_CLASS(UGryphonFunctionLibrary, UBlueprintFunctionLibrary, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GryphonLocalization"), NO_API) \
+	DECLARE_SERIALIZER(UGryphonFunctionLibrary)
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UGryphonFunctionLibrary(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGryphonFunctionLibrary) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGryphonFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGryphonFunctionLibrary); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UGryphonFunctionLibrary(UGryphonFunctionLibrary&&); \
+	NO_API UGryphonFunctionLibrary(const UGryphonFunctionLibrary&); \
+public: \
+	NO_API virtual ~UGryphonFunctionLibrary();
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UGryphonFunctionLibrary(UGryphonFunctionLibrary&&); \
+	NO_API UGryphonFunctionLibrary(const UGryphonFunctionLibrary&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGryphonFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGryphonFunctionLibrary); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGryphonFunctionLibrary) \
+	NO_API virtual ~UGryphonFunctionLibrary();
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_6_PROLOG
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_SPARSE_DATA \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_RPC_WRAPPERS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_ACCESSORS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_INCLASS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_SPARSE_DATA \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_ACCESSORS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_INCLASS_NO_PURE_DECLS \
+	FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h_8_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> GRYPHONLOCALIZATION_API UClass* StaticClass<class UGryphonFunctionLibrary>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_SHORT_Polaris_Project_main_Plugins_GryphonLocalization_Source_GryphonLocalization_Public_GryphonFunctionLibrary_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

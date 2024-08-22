@@ -1,0 +1,220 @@
+E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Source\NVTT\ThirdParty\nvtt\nvcore\poshlib\posh.c
+/I .
+/I E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Source\NVTT\ThirdParty\nvtt
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I Runtime
+/I Runtime\Core
+/I Runtime\Core\Public\Algo
+/I Runtime\Core\Public\Algo\Impl
+/I Runtime\Core\Public\Async
+/I Runtime\Core\Public\Async\Fundamental
+/I Runtime\Core\Public\Clang
+/I Runtime\Core\Public\Compression
+/I Runtime\Core\Public\Concepts
+/I Runtime\Core\Public\Containers
+/I Runtime\Core\Public\Delegates
+/I Runtime\Core\Public\Experimental
+/I Runtime\Core\Public\Experimental\Async
+/I Runtime\Core\Public\Experimental\Containers
+/I Runtime\Core\Public\Experimental\Coroutine
+/I Runtime\Core\Public\Experimental\Misc
+/I Runtime\Core\Public\Features
+/I Runtime\Core\Public\FileCache
+/I Runtime\Core\Public\FramePro
+/I Runtime\Core\Public\GenericPlatform
+/I Runtime\Core\Public\HAL
+/I Runtime\Core\Public\HAL\Allocators
+/I Runtime\Core\Public\Hash
+/I Runtime\Core\Public\Internationalization
+/I Runtime\Core\Public\IO
+/I Runtime\Core\Public\Logging
+/I Runtime\Core\Public\Math
+/I Runtime\Core\Public\Memory
+/I Runtime\Core\Public\MemPro
+/I Runtime\Core\Public\Microsoft
+/I Runtime\Core\Public\Misc
+/I Runtime\Core\Public\Modules
+/I Runtime\Core\Public\Modules\Boilerplate
+/I Runtime\Core\Public\MSVC
+/I Runtime\Core\Public\ProfilingDebugging
+/I Runtime\Core\Public\Serialization
+/I Runtime\Core\Public\Serialization\Csv
+/I Runtime\Core\Public\Serialization\Formatters
+/I Runtime\Core\Public\Stats
+/I Runtime\Core\Public\String
+/I Runtime\Core\Public\Tasks
+/I Runtime\Core\Public\Templates
+/I Runtime\Core\Public\Tests
+/I Runtime\Core\Public\Traits
+/I Runtime\Core\Public\UObject
+/I Runtime\Core\Public\Virtualization
+/I Runtime\Core\Public\Windows
+/I Runtime\TraceLog
+/I Runtime\TraceLog\Public\Trace
+/I Runtime\TraceLog\Public\Trace\Detail
+/I Runtime\TraceLog\Public\Trace\Detail\Important
+/I Runtime\TraceLog\Public\Trace\Detail\Protocols
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
+/I Runtime\CoreUObject
+/I Runtime\CoreUObject\Public\AssetRegistry
+/I Runtime\CoreUObject\Public\Blueprint
+/I Runtime\CoreUObject\Public\Internationalization
+/I Runtime\CoreUObject\Public\Misc
+/I Runtime\CoreUObject\Public\Serialization
+/I Runtime\CoreUObject\Public\Serialization\Formatters
+/I Runtime\CoreUObject\Public\Templates
+/I Runtime\CoreUObject\Public\UObject
+/I Runtime\ApplicationCore\Public
+/I Runtime\ApplicationCore
+/I Runtime\ApplicationCore\Public\GenericPlatform
+/I Runtime\ApplicationCore\Public\GenericPlatform\Accessibility
+/I Runtime\ApplicationCore\Public\HAL
+/I Runtime\ApplicationCore\Public\Windows
+/I Runtime\ApplicationCore\Public\Windows\Accessibility
+/I Runtime\RHI\Public
+/I Runtime\RHI
+/I Runtime\RHI\Public\Tests
+/I Runtime\RHI\Public\Windows
+/I E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Source
+/I E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Source\NVTT
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I E:\Documents\VisualStudio\VC\Tools\MSVC\14.34.31933\INCLUDE
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/DIS_PROGRAM=0
+/DUE_EDITOR=1
+/DUSE_SHADER_COMPILER_WORKER_TRACE=0
+/DENABLE_PGO_PROFILE=0
+/DUSE_VORBIS_FOR_STREAMING=1
+/DUSE_XMA2_FOR_STREAMING=1
+/DWITH_DEV_AUTOMATION_TESTS=1
+/DWITH_PERF_AUTOMATION_TESTS=1
+/DWITH_LOW_LEVEL_TESTS=0
+/DWITH_TESTS=1
+/DUNICODE
+/D_UNICODE
+/D__UNREAL__
+/DIS_MONOLITHIC=0
+/DWITH_ENGINE=1
+/DWITH_UNREAL_DEVELOPER_TOOLS=1
+/DWITH_UNREAL_TARGET_DEVELOPER_TOOLS=1
+/DWITH_APPLICATION_CORE=1
+/DWITH_COREUOBJECT=1
+/DWITH_VERSE=1
+/DUE_USE_VERSE_PATHS=1
+/DUSE_STATS_WITHOUT_ENGINE=0
+/DWITH_PLUGIN_SUPPORT=0
+/DWITH_ACCESSIBILITY=1
+/DWITH_PERFCOUNTERS=1
+/DWITH_FIXED_TIME_STEP_SUPPORT=1
+/DUSE_LOGGING_IN_SHIPPING=0
+/DWITH_LOGGING_TO_MEMORY=0
+/DUSE_CACHE_FREED_OS_ALLOCS=1
+/DUSE_CHECKS_IN_SHIPPING=0
+/DUSE_UTF8_TCHARS=0
+/DUSE_ESTIMATED_UTCNOW=0
+/DUE_ALLOW_EXEC_COMMANDS_IN_SHIPPING=1
+/DWITH_EDITOR=1
+/DWITH_IOSTORE_IN_EDITOR=1
+/DWITH_SERVER_CODE=1
+/DUE_FNAME_OUTLINE_NUMBER=0
+/DWITH_PUSH_MODEL=1
+/DWITH_CEF3=1
+/DWITH_LIVE_CODING=1
+/DWITH_CPP_MODULES=0
+/DWITH_CPP_COROUTINES=0
+/DWITH_PROCESS_PRIORITY_CONTROL=0
+/DUBT_MODULE_MANIFEST=\"UnrealEditor.modules\"
+/DUBT_MODULE_MANIFEST_DEBUGGAME=\"UnrealEditor-Win64-DebugGame.modules\"
+/DUBT_COMPILED_PLATFORM=Win64
+/DUBT_COMPILED_TARGET=Editor
+/DUE_APP_NAME=\"UnrealEditor\"
+/DNDIS_MINIPORT_MAJOR_VERSION=0
+/DWIN32=1
+/D_WIN32_WINNT=0x0601
+/DWINVER=0x0601
+/DPLATFORM_WINDOWS=1
+/DPLATFORM_MICROSOFT=1
+/DOVERRIDE_PLATFORM_HEADER_NAME=Windows
+/DRHI_RAYTRACING=1
+/DNDEBUG=1
+/DUE_BUILD_DEVELOPMENT=1
+/DUE_IS_ENGINE_MODULE=0
+/DUE_DISABLE_INLINE_GEN_CPP=0
+/DUE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1=1
+/DUE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2=1
+/DUE_PROJECT_NAME=Polaris
+/DUE_TARGET_NAME=PolarisEditor
+/DUE_MODULE_NAME=\"NVTT\"
+/DUE_PLUGIN_NAME=\"JsonAsAsset\"
+/DIMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=
+/DIMPLEMENT_SIGNING_KEY_REGISTRATION()=
+/DDEPRECATED_FORGAME=DEPRECATED
+/DUE_DEPRECATED_FORGAME=UE_DEPRECATED
+/DUE_MEMORY_TAGS_TRACE_ENABLED=1
+/DUE_ENABLE_ICU=1
+/DWITH_ADDITIONAL_CRASH_CONTEXTS=1
+/DWITH_VS_PERF_PROFILER=0
+/DWITH_SUPERLUMINAL_PROFILER=0
+/DWITH_CONCURRENCYVIEWER_PROFILER=0
+/DWITH_DIRECTXMATH=0
+/DUE_WITH_IRIS=1
+/DPLATFORM_SUPPORTS_PLATFORM_EVENTS=1
+/DPLATFORM_SUPPORTS_TRACE_WIN32_VIRTUAL_MEMORY_HOOKS=1
+/DPLATFORM_SUPPORTS_TRACE_WIN32_MODULE_DIAGNOSTICS=1
+/DPLATFORM_SUPPORTS_TRACE_WIN32_CALLSTACK=1
+/DUE_MEMORY_TRACE_AVAILABLE=1
+/DWITH_MALLOC_STOMP=1
+/DCORE_API=DLLIMPORT
+/DTRACELOG_API=DLLIMPORT
+/DCOREUOBJECT_API=DLLIMPORT
+/DUE_WINDOWS_USING_UIA=1
+/DAPPLICATIONCORE_API=DLLIMPORT
+/DRHI_WANT_BREADCRUMB_EVENTS=1
+/DRHI_WANT_RESOURCE_INFO=1
+/DRHI_API=DLLIMPORT
+/DNVTT_API=DLLEXPORT
+/Fo"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\posh.c.obj"
+/sourceDependencies E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\posh.c.dep.json
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/Zc:hiddenFriend
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/fastfail
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/wd4463
+/we4668
+/wd4244
+/wd4838
+/TC
+/W0

@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisesimpleexternalsource\\module.wwisesimpleexternalsource.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisesimpleexternalsource\\definitions.wwisesimpleexternalsource.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcecookiedefaultmedia.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\public\\wwiseexternalsourcecookiedefaultmedia.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datatable.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcecookiedefaultmedia.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcemediainfo.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\public\\wwiseexternalsourcemediainfo.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcemediainfo.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcesettings.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\public\\wwiseexternalsourcesettings.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwiseexternalsourcesettings.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesimpleexternalsource\\uht\\wwisesimpleexternalsource.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\private\\wwiseexternalsourcecookiedefaultmedia.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\private\\wwiseexternalsourcemediainfo.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\private\\wwiseexternalsourcesettings.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesimpleexternalsource\\private\\wwisesimpleexternalsourcemodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

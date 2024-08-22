@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kamuinetworkplugin\\module.kamuinetworkplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kamuinetworkplugin\\definitions.kamuinetworkplugin.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworkbpfunctionlibrary.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\public\\kamuinetworkbpfunctionlibrary.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworkbpfunctionlibrary.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworkcomponent.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\public\\kamuinetworkcomponent.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworkcomponent.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworklibrarygameinstance.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\public\\kamuinetworklibrarygameinstance.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworklibrarygameinstance.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\intermediate\\build\\win64\\unrealgame\\inc\\kamuinetworkplugin\\uht\\kamuinetworkplugin.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\private\\kamuinetworkbpfunctionlibrary.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\private\\kamuinetworkcomponent.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\private\\kamuinetworklibrarygameinstance.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\kamuinetworkplugin\\source\\kamuinetworkplugin\\private\\kamuinetworkpluginmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

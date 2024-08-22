@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\dlss\\module.dlss.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\dlss\\definitions.dlss.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlss.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlssoverridesettings.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\public\\dlssoverridesettings.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\public\\edlsssettingoverride.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsssettingoverride.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlssoverridesettings.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlsssettings.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\public\\dlsssettings.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\public\\edlsspreset.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsspreset.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlsssettings.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsspreset.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsssettingoverride.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\private\\dlssmodule.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\private\\dlssoverridesettings.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlss\\private\\dlsssettings.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

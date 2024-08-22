@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GryphonLocalization.cpp.obj": [
+			"GryphonFunctionLibrary.gen.cpp.obj",
+			"GryphonLocalization.init.gen.cpp.obj",
+			"GryphonTextBinaryAsset.gen.cpp.obj",
+			"GryphonFunctionLibrary.cpp.obj",
+			"GryphonLocalizationModule.cpp.obj",
+			"GryphonTextBinaryAsset.cpp.obj"
+		]
+	}
+}

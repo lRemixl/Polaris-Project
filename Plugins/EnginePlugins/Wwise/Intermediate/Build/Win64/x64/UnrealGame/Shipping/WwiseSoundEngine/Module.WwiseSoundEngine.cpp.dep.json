@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisesoundengine\\module.wwisesoundengine.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisesoundengine\\definitions.wwisesoundengine.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akoutputdeviceid.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\public\\akoutputdeviceid.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\public\\akuint64wrapper.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuint64wrapper.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akoutputdeviceid.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuint32wrapper.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\public\\akuint32wrapper.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuint32wrapper.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuint64wrapper.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuniqueid.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\public\\akuniqueid.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\akuniqueid.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisesoundengine\\uht\\wwisesoundengine.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\private\\akoutputdeviceid.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\private\\akuint32wrapper.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\private\\akuint64wrapper.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\private\\akuniqueid.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\wwise\\source\\wwisesoundengine\\private\\wwisesoundenginemodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

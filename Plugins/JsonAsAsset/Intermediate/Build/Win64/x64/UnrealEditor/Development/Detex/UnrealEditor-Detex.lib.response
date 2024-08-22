@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Detex.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\CoreUObject\SharedPCH.CoreUObject.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\Detex\Module.Detex.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\Detex\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\Detex\UnrealEditor-Detex.lib"

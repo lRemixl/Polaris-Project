@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WwiseResourceLoader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\Engine\SharedPCH.Engine.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\Module.WwiseResourceLoader.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\EnginePlugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.lib"

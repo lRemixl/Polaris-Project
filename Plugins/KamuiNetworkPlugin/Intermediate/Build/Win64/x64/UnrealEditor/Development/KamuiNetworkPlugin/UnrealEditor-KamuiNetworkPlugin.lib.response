@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-KamuiNetworkPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\Engine\SharedPCH.Engine.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\KamuiNetworkPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\KamuiNetworkPlugin\Module.KamuiNetworkPlugin.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\KamuiNetworkPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\KamuiNetworkPlugin\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\KamuiNetworkPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\KamuiNetworkPlugin\UnrealEditor-KamuiNetworkPlugin.lib"

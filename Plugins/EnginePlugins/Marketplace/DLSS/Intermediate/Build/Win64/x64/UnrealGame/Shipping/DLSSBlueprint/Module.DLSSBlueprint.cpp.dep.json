@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\dlssblueprint\\module.dlssblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\freshy\\polaris-project-main\\intermediate\\build\\win64\\x64\\polarisgame\\shipping\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\dlssblueprint\\definitions.dlssblueprint.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\dlssblueprint.init.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\dlsslibrary.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlssblueprint\\public\\dlsslibrary.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\documents\\uetekken\\ue 5.2 tekken 8\\ue 5.2 tekken 8\\windows\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlssblueprint\\public\\udlssmode.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlssmode.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlssblueprint\\public\\udlsssupport.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlsssupport.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\dlsslibrary.generated.h",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlssmode.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlsssupport.gen.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlssblueprint\\private\\dlssblueprintmodule.cpp",
+            "e:\\documents\\freshy\\polaris-project-main\\plugins\\engineplugins\\marketplace\\dlss\\source\\dlssblueprint\\private\\dlsslibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JsonAsAsset.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\JsonAsAsset\Module.JsonAsAsset.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\JsonAsAsset\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\JsonAsAsset\UnrealEditor-JsonAsAsset.lib"

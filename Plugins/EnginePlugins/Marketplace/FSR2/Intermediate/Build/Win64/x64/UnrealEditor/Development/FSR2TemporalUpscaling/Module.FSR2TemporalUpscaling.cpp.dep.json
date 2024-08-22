@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fsr2temporalupscaling\\module.fsr2temporalupscaling.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\short\\polaris-project-main\\intermediate\\build\\win64\\x64\\polariseditor\\development\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fsr2temporalupscaling\\definitions.fsr2temporalupscaling.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2dedithermode.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2historyformat.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2historyformat.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2historyformat.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2landscapehismmode.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2landscapehismmode.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2landscapehismmode.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2qualitymode.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2qualitymode.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2qualitymode.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2settings.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\public\\fsr2settings.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2settings.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2temporalupscaling.init.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\private\\fsr2settings.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\engineplugins\\marketplace\\fsr2\\source\\fsr2temporalupscaling\\private\\fsr2temporalupscalingmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

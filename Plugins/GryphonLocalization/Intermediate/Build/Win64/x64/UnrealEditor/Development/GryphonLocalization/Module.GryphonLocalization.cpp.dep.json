@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gryphonlocalization\\module.gryphonlocalization.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\short\\polaris-project-main\\intermediate\\build\\win64\\x64\\polariseditor\\development\\engine\\sharedpch.engine.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gryphonlocalization\\definitions.gryphonlocalization.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\unrealeditor\\inc\\gryphonlocalization\\uht\\gryphonfunctionlibrary.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\source\\gryphonlocalization\\public\\gryphonfunctionlibrary.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\unrealeditor\\inc\\gryphonlocalization\\uht\\gryphonfunctionlibrary.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\unrealeditor\\inc\\gryphonlocalization\\uht\\gryphonlocalization.init.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\unrealeditor\\inc\\gryphonlocalization\\uht\\gryphontextbinaryasset.gen.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\source\\gryphonlocalization\\public\\gryphontextbinaryasset.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\intermediate\\build\\win64\\unrealeditor\\inc\\gryphonlocalization\\uht\\gryphontextbinaryasset.generated.h",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\source\\gryphonlocalization\\private\\gryphonfunctionlibrary.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\source\\gryphonlocalization\\private\\gryphonlocalizationmodule.cpp",
+            "e:\\documents\\short\\polaris-project-main\\plugins\\gryphonlocalization\\source\\gryphonlocalization\\private\\gryphontextbinaryasset.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

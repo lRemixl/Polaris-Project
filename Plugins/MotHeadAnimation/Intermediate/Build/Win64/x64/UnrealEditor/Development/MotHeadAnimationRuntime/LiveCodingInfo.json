@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotHeadAnimationRuntime.cpp.obj": [
+			"AnimNode_MotHead.gen.cpp.obj",
+			"DummyClassForMotHeadAnimationModule.gen.cpp.obj",
+			"EMotHeadMatrixSpace.gen.cpp.obj",
+			"ESupportUEAnimationMode.gen.cpp.obj",
+			"MotHeadAnimationRuntime.init.gen.cpp.obj",
+			"MotHeadAnimInstance.gen.cpp.obj",
+			"AnimNode_MotHead.cpp.obj",
+			"DummyClassForMotHeadAnimationModule.cpp.obj",
+			"MotHeadAnimationRuntimeModule.cpp.obj",
+			"MotHeadAnimInstance.cpp.obj"
+		]
+	}
+}

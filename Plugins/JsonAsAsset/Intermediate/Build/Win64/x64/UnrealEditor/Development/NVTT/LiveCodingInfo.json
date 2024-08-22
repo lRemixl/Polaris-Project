@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NVTT.cpp.obj": [
+			"NVTT.cpp.obj",
+			"BlockDXT.cpp.obj",
+			"ColorBlock.cpp.obj",
+			"DirectDrawSurface.cpp.obj",
+			"Image.cpp.obj"
+		]
+	}
+}

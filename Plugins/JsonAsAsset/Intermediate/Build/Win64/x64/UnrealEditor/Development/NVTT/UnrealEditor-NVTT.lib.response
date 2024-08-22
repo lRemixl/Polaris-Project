@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NVTT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SHORT\Polaris-Project-main\Intermediate\Build\Win64\x64\PolarisEditor\Development\CoreUObject\SharedPCH.CoreUObject.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\Module.NVTT.cpp.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\posh.c.obj"
+"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\Default.rc2.res"
+/OUT:"E:\Documents\SHORT\Polaris-Project-main\Plugins\JsonAsAsset\Intermediate\Build\Win64\x64\UnrealEditor\Development\NVTT\UnrealEditor-NVTT.lib"
