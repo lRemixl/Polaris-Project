@@ -2,6 +2,7 @@ Fork of Koenji's Polaris-Project that allows for objects of type Data Asset Char
 See: [Here](https://tekkenmods.com/article/126/simple-character-data-asset-vfx-modding)
 
 
-Credits: Koenji
-         Peek 
-         CDDTreborn 
+Credits: 
+         - Koenji
+         - Peek 
+         - CDDTreborn 
