@@ -46,7 +46,13 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/
+Binaries/*
+Plugins/*/Binaries/*
+Plugins/*/*/Binaries/*
+Plugins/*/*/*/Binaries/*
+Plugins/*/*/*/*/Binaries/*
+Plugins/EnginePlugins/FX/*/Binaries/*
+Plugins/EnginePlugins/*/HoudiniNiagara/Binaries/*
 
 # Builds
 Build/*
@@ -66,12 +72,21 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/
+Intermediate/*
+Plugins/*
+Plugins/Marketplace/*/Intermediate/*
+Plugins/EnginePlugins/*/Intermediate/*
+Plugins/EnginePlugins/*/*/Intermediate/*
+Plugins/EnginePlugins/*/*/*/Intermediate/*
+Plugins/EnginePlugins/FX/*
+Plugins/EnginePlugins/Marketplace/*/Intermediate/*
+Plugins/EnginePlugins/Runtime/*/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
 # Content Folder
+Content/**/*
 !Content/Mods/TekkenTestMod/
 !Content/Mods/TekkenTestMod/*
 !Content/Python/

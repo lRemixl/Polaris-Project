@@ -1,5 +1,6 @@
 #pragma once
 #include "CoreMinimal.h"
+#include "EffectUserParameterInt.h"
 #include "CharacterEffectData.generated.h"
 
 class UBlueprint;
@@ -22,6 +23,9 @@ public:
     bool isAttachedCharacter;
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    bool isSelfRotation;
+    
+    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     bool isDispUI;
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
@@ -35,6 +39,12 @@ public:
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     bool isPlaySound;
+    
+    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    bool isGetMesh;
+    
+    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    FEffectUserParameterInt UserParameterInt;
     
     POLARIS_API FCharacterEffectData();
 };

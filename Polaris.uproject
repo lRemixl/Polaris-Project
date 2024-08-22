@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{2719310C-46B6-9F2A-BF23-E98713C9B8F1}",
+	"EngineAssociation": "{AEF1813A-4F22-6435-3F3C-0C808C96C97A}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -300,6 +300,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "JsonAsAsset",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
